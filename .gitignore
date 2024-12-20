@@ -1,0 +1,6 @@
+# remove the dummy data 
+data 
+
+# remove the py environment
+venv
+venvUb
