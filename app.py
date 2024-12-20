@@ -225,7 +225,7 @@ def get_recommendations():
         logger.info(f'✨ Generated top {len(recommendations)} recommendations')
         
         logger.info('╔════════════════════════════════════════════════╗')
-        logger.info('║         Recommendation Process Complete         ║')
+        logger.info('║         Recommendation Process Complete        ║')
         logger.info('╚════════════════════════════════════════════════╝')
         
         return jsonify({
